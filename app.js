@@ -23,7 +23,7 @@ img:"./images/milkshake.png"
 img:"./images/pizza.png"
 },
 {name:"white",
-img:"./images/white.png"
+img:"./images/white.png" 
 }
 ]
 
